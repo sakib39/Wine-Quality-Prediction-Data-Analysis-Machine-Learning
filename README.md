@@ -71,11 +71,3 @@ The dataset is sourced from the **UCI Machine Learning Repository**:
 ## **Results**
 
 The project successfully **identifies key factors** affecting wine quality and provides a **machine learning model** to classify wines. **The detailed analysis and visualizations are available in the notebook.**
-
----
-
-### **Suggested Project Name:**
-
-📝 **"Wine Quality Prediction: Data Analysis & Machine Learning"**
-
-This title makes the project clear, compelling, and relevant. Let me know if you’d like any modifications! 🚀
