@@ -57,7 +57,7 @@ The dataset is sourced from the **UCI Machine Learning Repository**:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/Wine-Quality-Prediction.git
+   git clone https://github.com/sakib39/Wine-Quality-Prediction.git
    ```
 2. Install required dependencies:
    ```sh
